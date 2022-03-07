@@ -1,0 +1,12 @@
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\bin\Debug\net5.0\TesteTecnicoDigiStart.Domain.deps.json
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\bin\Debug\net5.0\TesteTecnicoDigiStart.Domain.dll
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\bin\Debug\net5.0\ref\TesteTecnicoDigiStart.Domain.dll
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\bin\Debug\net5.0\TesteTecnicoDigiStart.Domain.pdb
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\TesteTecnicoDigiStart.Domain.csproj.AssemblyReference.cache
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\TesteTecnicoDigiStart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\TesteTecnicoDigiStart.Domain.AssemblyInfoInputs.cache
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\TesteTecnicoDigiStart.Domain.AssemblyInfo.cs
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\TesteTecnicoDigiStart.Domain.csproj.CoreCompileInputs.cache
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\TesteTecnicoDigiStart.Domain.dll
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\ref\TesteTecnicoDigiStart.Domain.dll
+C:\src\TesteTecnicoDigiStart\TesteTecnicoDigiStart.Domain\obj\Debug\net5.0\TesteTecnicoDigiStart.Domain.pdb
